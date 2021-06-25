@@ -4,7 +4,6 @@
 // click
 // dblclick
 // mousemove
-
 let dragging = false;
 let draggingEl;
 let mouseX = 0;
